@@ -18,8 +18,8 @@ import io.fabric.sdk.android.Fabric;
 public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSelectedListener,NavigationView.OnNavigationItemSelectedListener{
 
     // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
-    private static final String TWITTER_KEY = "ZaKK8deFVbc6owfBQRQPJ45Pk";
-    private static final String TWITTER_SECRET = "DYRAAk7iO5oewG772KbbEIFgjehNNnMRP8zyqYLchHIIx4BtKH";
+    private static final String TWITTER_KEY = "";//add your own
+    private static final String TWITTER_SECRET = "";//add your own
 
 
     private TabLayout tabLayout;
